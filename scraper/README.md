@@ -13,4 +13,4 @@ Arquiteturalmente, a automação é monolítica, porém dividida em 2 classes, p
 
 A biblioteca usada é o RPA Framework, framework em que conheci há não muito tempo, e que costumo usar bastante em minhas automações principalmente pelos seus métodos com esperas ímplicitas/dinâmicas. O RPA Framework implementa o Selenium para automações web.
 
-Observação: Devido à variação na estrutura dos cards do portal G1, alguns campos podem estar ausentes ou inconsistentes (ex: subtítulo no lugar da hora). A automação foi desenvolvida para tratar esses casos sem interromper o fluxo de coleta."
+OBS: Devido à variação na estrutura dos cards do portal G1, alguns campos podem estar ausentes ou inconsistentes (ex: subtítulo no lugar da hora). A automação foi desenvolvida para tratar esses casos sem interromper o fluxo de coleta.
