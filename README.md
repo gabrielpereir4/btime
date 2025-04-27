@@ -18,7 +18,7 @@ cd btime
 Instale as dependências contidas no arquivo requirements.txt
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Para execução dos scripts:
