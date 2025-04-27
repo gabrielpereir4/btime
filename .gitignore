@@ -1,0 +1,25 @@
+# Ignore ambientes virtuais
+venv/
+
+# Ignore arquivos e pastas de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore arquivos CSV gerados (outputs)
+*.csv
+
+# Ignore arquivos de ambiente (contêm segredos)
+.env
+
+# Ignore configurações locais de IDEs
+.vscode/
+.idea/
+
+# Logs e outputs temporários
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
