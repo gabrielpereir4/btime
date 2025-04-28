@@ -75,8 +75,8 @@ class Tasks():
 
             j = j + 1
 
-        print("Total de notícias: ", len(self.noticias))
-        print("Notícias: ", self.noticias)
+       #print("Total de notícias: ", len(self.noticias))
+        #print("Notícias: ", self.noticias)
 
 
     def procurar_item(self, xpath_atual, xpath_alvo):

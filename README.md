@@ -15,6 +15,13 @@ Navegue até a pasta:
 cd btime
 ```
 
+Crie o ambiente virtual e ative-o:
+
+```bash
+python -m venv venv
+.\venv\Scripts\activate
+```
+
 Instale as dependências contidas no arquivo requirements.txt
 
 ```bash
